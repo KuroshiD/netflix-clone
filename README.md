@@ -4,11 +4,11 @@
 </p>
 
 ---
-<img align="left" src="https://github.com/KuroshiD/netflix-clone/blob/main/src/images/pc1.png" width="500px" height="320px">
-<img align="left" src="https://github.com/KuroshiD/netflix-clone/blob/main/src/images/pc2.png" width="500px" height="320px">
+<img align="left" src="https://github.com/KuroshiD/netflix-clone/blob/main/src/images/pc1.png" width="250px" height="160px">
+<img align="left" src="https://github.com/KuroshiD/netflix-clone/blob/main/src/images/pc2.png" width="250px" height="160px">
 <br />
-<img align="left" src="https://github.com/KuroshiD/netflix-clone/blob/main/src/images/mobile1.png" width="500px" height="320px">
-<img align="left" src="https://github.com/KuroshiD/netflix-clone/blob/main/src/images/mobile2.png" width="500px" height="320px">
+<img align="left" src="https://github.com/KuroshiD/netflix-clone/blob/main/src/images/mobile1.png" width="250px" height="160px">
+<img align="left" src="https://github.com/KuroshiD/netflix-clone/blob/main/src/images/mobile2.png" width="250px" height="160px">
 ---
 
 ## 🚀 Technologies and tools used in this project
