@@ -9,6 +9,7 @@
 <br />
 <img align="left" src="https://github.com/KuroshiD/netflix-clone/blob/main/src/images/mobile1.png" width="250px" height="160px">
 <img align="left" src="https://github.com/KuroshiD/netflix-clone/blob/main/src/images/mobile2.png" width="250px" height="160px">
+<br />
 ---
 
 ## 🚀 Technologies and tools used in this project
