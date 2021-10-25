@@ -29,7 +29,9 @@ git clone https://github.com/KuroshiD/netflix-clone
 ```
 cd netflix-clone
 ```
-
+```
+yarn install
+```
 ```
 yarn start
 ```
