@@ -4,7 +4,7 @@
 </p>
 
 ---
-<img align="center" src="https://github.com/KuroshiD/netflix-clone/blob/main/src/images/pc1.png" width="500px" height="320px">
+<img align="center" src="https://github.com/KuroshiD/netflix-clone/blob/main/src/images/pc1.png" width="720px" height="320px">
 
 ---
 
