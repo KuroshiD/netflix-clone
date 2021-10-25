@@ -4,7 +4,11 @@
 </p>
 
 ---
-Image
+<img align="left" src="https://github.com/KuroshiD/netflix-clone/blob/main/src/images/pc1.png">
+<img align="left" src="https://github.com/KuroshiD/netflix-clone/blob/main/src/images/pc2.png">
+<br />
+<img align="left" src="https://github.com/KuroshiD/netflix-clone/blob/main/src/images/mobile1.png">
+<img align="left" src="https://github.com/KuroshiD/netflix-clone/blob/main/src/images/mobile2.png">
 ---
 
 ## 🚀 Technologies and tools used in this project
